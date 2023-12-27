@@ -1,19 +1,17 @@
 
-# Python Project100
+# AI-Training-Resources
 
-Welcome to the Python Project100 repository! 🚀
+Welcome to the AI-Training-Resources repository! 🚀
 
 ## About
-Python Project100 is a collection of 100 hands-on Python projects designed to help you learn and practice Python programming in a fun and engaging way. Whether you are a beginner or an experienced Python developer, you'll find projects here that challenge your skills and expand your knowledge.
+A personal repository dedicated to my journey in AI. Containing Python scripts, Jupyter notebooks, and datasets, this collection chronicles my growth and exploration in the vast realm of artificial intelligence. Here, I share my learnings, challenges, and milestones as I delve deeper into the world of AI.
 
-## Features
-- **Diverse Topics:** Explore a wide range of Python topics, including data analysis, web scraping, automation, and more.
-- **Progressive Difficulty:** Projects are organized by difficulty level, allowing you to start from the basics and gradually advance.
-- **Detailed Documentation:** Each project comes with clear instructions and explanations to guide you through the coding process.
+Features
+AI Journey: This collection, including Python scripts, Jupyter notebooks, and datasets, chronicles my growth and exploration in the field of artificial intelligence.
+Varied Projects: Experience a diverse range of AI fields such as chatbot construction, sentiment analysis, real-time face recognition, and more.
+Systematic Learning: Each project starts with clear objectives, helping to deepen your understanding of AI.
+Getting Started
+Explore the repository and select a project that interests you. Each project includes a README file with execution methods, code, and necessary resources. For example, 'Project05_Chatbot_NLP_Python.py' covers building a chatbot using natural language processing, while 'Project07_Movie_Review_Sentiment_Analysis_with_LSTM.py' explains an LSTM model for movie review sentiment analysis.
 
-
-## Getting Started
-To get started, simply browse the project folders and choose a topic that interests you. Each project folder contains a README with instructions, code templates, and resources.
-
-## Happy Coding!
-We hope you enjoy your coding journey with Python Project100. Happy coding, and let's build amazing things together! 🐍
+Happy Coding with AI!
+Enjoy your journey diving deeper into the world of AI. Happy coding, and let's create amazing things together with AI! 🤖
